@@ -2803,9 +2803,9 @@ break
           modern.sendMessage(from, pp, text)
           }
           if (isCmd) {      
-          menu = monospace(` مرحبا ${pushname}_<\nأمر ${command} الاوامر قائمة في  مدرج غير  !!\n باكا  `)
+          menu = monospace(` باكا ${pushname}_<\nأمر ${command} غير مدرج في قائمة الاوامر استخدم الاوامر المدرجة في القائمة لتجنب الحظر   !!\n 💵😂  `)
           but = [{ buttonId: `!menu`, buttonText: { displayText: 'القــائمــة' }, type: 1 }]
-          sendButton(from, menu, 'Created By Alazery OFC', but, mek)
+          sendButton(from, menu, 'صنع من طرف ايانوكوجي', but, mek)
           break
           }
               

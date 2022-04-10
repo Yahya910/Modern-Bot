@@ -4,7 +4,7 @@
 
 [![تشغيل على Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![تطبيق](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![تطبيق](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yahya910/Modern-Bot)
 
 > [للتواصل (شرح شامل)](wa.me/212693222334) 
 
